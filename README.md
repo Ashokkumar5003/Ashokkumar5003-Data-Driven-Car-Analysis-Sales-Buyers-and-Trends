@@ -61,6 +61,7 @@ Here's a glimpse of the dashboard:
    - **Purpose**: Analyze the most popular car brands by gender.
    - **Key Visuals**: Clustered Bar Chart & Table.
    - **What it shows**: The most popular brand for male and female buyers.
+   - ![Dashboard Screenshot](https://github.com/Ashokkumar5003/Ashokkumar5003-Data-Driven-Car-Analysis-Sales-Buyers-and-Trends/blob/main/Screenshots/Gender.png)
 
 ---
 
